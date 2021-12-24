@@ -1,0 +1,12 @@
+____
+#1-1 
+
+說明:加上一個外部的LED, 並且ON (亮) 1秒, OFF(滅) 1秒
+----
+電路圖
+
+![1](https://github.com/ChenWanFei/VNU_2021/blob/main/01%E9%9B%BB%E8%B7%AF%E5%9C%96.png)
+
+程式
+
+![2](https://github.com/ChenWanFei/VNU_2021/blob/main/01%E7%A8%8B%E5%BC%8F.png)
